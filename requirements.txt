@@ -1,0 +1,7 @@
+mcp==1.30.0
+pydantic==2.14.3
+fastapi==0.162.2
+httpx==0.28.1
+uvicorn==0.54.0
+tiktoken==0.14.0
+anyio==4.16.0
